@@ -1,0 +1,4 @@
+1. Write a program in Java to check if a number is even or odd in Java? (input 2 output true, input 3 : output false)
+A number is called even if it is completely divisible by two and odd if it’s not completely divisible by two. 
+For example number 4 is even number because when you do 4/2 , remainder is 0 which means 4 is completely divisible by 2. 
+On the other hand 5 is odd number because 5/2 will result in remainder as 1.
