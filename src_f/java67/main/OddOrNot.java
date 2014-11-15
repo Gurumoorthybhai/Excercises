@@ -1,5 +1,5 @@
 package main;
-
+//
 public class OddOrNot {
 
 	public static boolean check(double a){
